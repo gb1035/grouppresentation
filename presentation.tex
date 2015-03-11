@@ -1,0 +1,42 @@
+\documentclass{beamer}
+\usetheme{Warsaw}
+\title{This is the Title}
+\author{My name}
+\date{\today}
+\defbeamertemplate*{footline}{shadow theme}
+{%
+  \leavevmode%
+  \hbox{\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fil,rightskip=.3cm]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertframenumber\,/\,\inserttotalframenumber\hfill\insertshortauthor
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle%
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\begin{document}
+\begin{frame}
+\maketitle
+\end{frame}
+\section{Section title}
+\begin{frame}
+\frametitle{Slide Title}
+\begin{itemize}
+\item Hello world
+\end{itemize}
+\end{frame}
+\subsection{Subsection title}
+\begin{frame}
+\frametitle{Another title}
+\begin{itemize}
+\item Hello moto
+\end{itemize}
+\end{frame}
+\section{Final section}
+\begin{frame}
+\frametitle{Last slide}
+\begin{itemize}
+\item Good by
+\end{itemize}
+\end{frame}
+\end{document}

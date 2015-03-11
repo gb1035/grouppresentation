@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Section title}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Subsection title}{3}{0}{1}
+\beamer@sectionintoc {2}{Final section}{4}{0}{2}
