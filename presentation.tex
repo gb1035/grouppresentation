@@ -93,6 +93,16 @@
 \end{frame}
 
 \section{Pidgin}
+\subsection{How Pdigin Integrates}
+\begin{frame}
+\frametitle{How Pidgin Integrates}
+\begin{itemize}
+\item Pidgin (any others) has built-in proxy utility
+\item All traffic is piped through proxy
+\item Then traffic is routed to .onion server
+\item Then traffic is forwarded to XMPP server
+\end{itemize}
+\end{frame}
 \subsection{Setting up Pidgin}
 \begin{frame}
 \frametitle{Setting up Pidgin}
@@ -123,12 +133,32 @@
 \end{columns}
 \end{frame}
 \subsection{Verifying pdigin}
-\section{Chat}
 \begin{frame}
+
 \frametitle{Last slide}
 \begin{itemize}
 \item Questions?
 \end{itemize}
+
+\frametitle{Verifying Pidgin}
+\begin{columns}
+    \begin{column}{0.48\textwidth}
+        \begin{itemize}
+          \item Login to the privacy box
+          \item Attempt to OTR chat with someone
+        \end{itemize}
+    \end{column}
+    \begin{column}{.5\textwidth}
+        \includegraphics[width=.9\linewidth]{pidgin_advanced}
+    \end{column}
+\end{columns}
+\end{frame}
+\section{Summery}
+\begin{frame}
+\frametitle{Summery}
+\begin{center}
+\includegraphics[width=1\linewidth]{overview}
+\end{center}
 \end{frame}
 \section{Fin}
 \end{document}

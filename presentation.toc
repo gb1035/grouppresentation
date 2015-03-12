@@ -7,6 +7,7 @@
 \beamer@subsectionintoc {2}{2}{Chat Client Address Configuration}{11}{0}{2}
 \beamer@subsectionintoc {2}{3}{Chat Client Proxy Configuration}{12}{0}{2}
 \beamer@sectionintoc {3}{Pidgin}{13}{0}{3}
-\beamer@subsectionintoc {3}{1}{Setting up Pidgin}{13}{0}{3}
-\beamer@subsectionintoc {3}{2}{Verifying pdigin}{15}{0}{3}
-\beamer@sectionintoc {4}{Chat}{15}{0}{4}
+\beamer@subsectionintoc {3}{1}{How Pdigin Integrates}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Setting up Pidgin}{14}{0}{3}
+\beamer@subsectionintoc {3}{3}{Verifying pdigin}{16}{0}{3}
+\beamer@sectionintoc {4}{Summery}{17}{0}{4}

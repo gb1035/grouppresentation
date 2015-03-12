@@ -25,19 +25,24 @@
 \headcommand {\sectionentry {3}{Pidgin}{13}{Pidgin}{0}}
 \headcommand {\beamer@sectionpages {4}{12}}
 \headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{13}{Setting up Pidgin}}\headcommand {\beamer@subsectionpages {13}{12}}
-\headcommand {\slideentry {3}{1}{1}{13/13}{Setting up Pidgin}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{13}{How Pdigin Integrates}}\headcommand {\beamer@subsectionpages {13}{12}}
+\headcommand {\slideentry {3}{1}{1}{13/13}{How Pdigin Integrates}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {3}{1}{2}{14/14}{Setting up Pidgin}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{14}{Setting up Pidgin}}\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\slideentry {3}{2}{1}{14/14}{Setting up Pidgin}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{15}{Verifying pdigin}}\headcommand {\beamer@subsectionpages {13}{14}}
-\headcommand {\sectionentry {4}{Chat}{15}{Chat}{0}}
-\headcommand {\beamer@sectionpages {13}{14}}
-\headcommand {\beamer@subsectionpages {15}{14}}
-\headcommand {\slideentry {4}{0}{1}{15/15}{}{0}}
+\headcommand {\slideentry {3}{2}{2}{15/15}{Setting up Pidgin}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\beamer@partpages {1}{15}}
-\headcommand {\beamer@subsectionpages {16}{15}}
-\headcommand {\beamer@sectionpages {16}{15}}
-\headcommand {\beamer@documentpages {15}}
-\headcommand {\def \inserttotalframenumber {9}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{16}{Verifying pdigin}}\headcommand {\beamer@subsectionpages {14}{15}}
+\headcommand {\slideentry {3}{3}{1}{16/16}{Verifying pdigin}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\sectionentry {4}{Summery}{17}{Summery}{0}}
+\headcommand {\beamer@sectionpages {13}{16}}
+\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\slideentry {4}{0}{2}{17/17}{}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@partpages {1}{17}}
+\headcommand {\beamer@subsectionpages {18}{17}}
+\headcommand {\beamer@sectionpages {18}{17}}
+\headcommand {\beamer@documentpages {17}}
+\headcommand {\def \inserttotalframenumber {11}}
