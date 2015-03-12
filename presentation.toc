@@ -4,9 +4,9 @@
 \beamer@subsectionintoc {1}{2}{Checking connection}{3}{0}{1}
 \beamer@sectionintoc {2}{Tor}{4}{0}{2}
 \beamer@subsectionintoc {2}{1}{Installing Tor}{4}{0}{2}
-\beamer@subsectionintoc {2}{2}{Chat Client Address Configuration}{10}{0}{2}
-\beamer@subsectionintoc {2}{3}{Chat Client Proxy Configuration}{11}{0}{2}
-\beamer@sectionintoc {3}{Pidgin}{12}{0}{3}
-\beamer@subsectionintoc {3}{1}{Setting up Pidgin}{12}{0}{3}
-\beamer@subsectionintoc {3}{2}{Verifying pdigin}{14}{0}{3}
-\beamer@sectionintoc {4}{Chat}{14}{0}{4}
+\beamer@subsectionintoc {2}{2}{Chat Client Address Configuration}{11}{0}{2}
+\beamer@subsectionintoc {2}{3}{Chat Client Proxy Configuration}{12}{0}{2}
+\beamer@sectionintoc {3}{Pidgin}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Setting up Pidgin}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Verifying pdigin}{15}{0}{3}
+\beamer@sectionintoc {4}{Chat}{15}{0}{4}
