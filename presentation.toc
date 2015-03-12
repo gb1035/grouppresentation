@@ -6,6 +6,7 @@
 \beamer@subsectionintoc {2}{1}{Setting up Tor}{4}{0}{2}
 \beamer@subsectionintoc {2}{2}{Verifying Tor}{5}{0}{2}
 \beamer@sectionintoc {3}{Pidgin}{6}{0}{3}
-\beamer@subsectionintoc {3}{1}{Setting up Pidgin}{6}{0}{3}
-\beamer@subsectionintoc {3}{2}{Verifying pdigin}{8}{0}{3}
-\beamer@sectionintoc {4}{Chat}{8}{0}{4}
+\beamer@subsectionintoc {3}{1}{How Pdigin Integrates}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Setting up Pidgin}{7}{0}{3}
+\beamer@subsectionintoc {3}{3}{Verifying pdigin}{9}{0}{3}
+\beamer@sectionintoc {4}{Summery}{10}{0}{4}
