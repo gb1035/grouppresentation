@@ -14,35 +14,35 @@
 \headcommand {\beamer@sectionpages {2}{3}}
 \headcommand {\beamer@subsectionpages {3}{3}}
 \headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Installing Tor}}\headcommand {\beamer@subsectionpages {4}{3}}
-\headcommand {\slideentry {2}{1}{1}{4/10}{Installing Tor}{0}}
-\headcommand {\beamer@framepages {4}{10}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{11}{Chat Client Address Configuration}}\headcommand {\beamer@subsectionpages {4}{10}}
-\headcommand {\slideentry {2}{2}{1}{11/11}{Chat Client Address Configuration}{0}}
+\headcommand {\slideentry {2}{1}{1}{4/4}{Installing Tor}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{5}{Chat Client Address Configuration}}\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\slideentry {2}{2}{1}{5/5}{Chat Client Address Configuration}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{6}{Chat Client Proxy Configuration}}\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\slideentry {2}{3}{1}{6/6}{Chat Client Proxy Configuration}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\sectionentry {3}{Pidgin}{7}{Pidgin}{0}}
+\headcommand {\beamer@sectionpages {4}{6}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{7}{How Pdigin Integrates}}\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\slideentry {3}{1}{1}{7/7}{How Pdigin Integrates}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{8}{Setting up Pidgin}}\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\slideentry {3}{2}{1}{8/8}{Setting up Pidgin}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {3}{2}{2}{9/9}{Setting up Pidgin}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{10}{Verifying pdigin}}\headcommand {\beamer@subsectionpages {8}{9}}
+\headcommand {\slideentry {3}{3}{1}{10/10}{Verifying pdigin}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\sectionentry {4}{Summery}{11}{Summery}{0}}
+\headcommand {\beamer@sectionpages {7}{10}}
+\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {4}{0}{2}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{12}{Chat Client Proxy Configuration}}\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\slideentry {2}{3}{1}{12/12}{Chat Client Proxy Configuration}{0}}
-\headcommand {\beamer@framepages {12}{12}}
-\headcommand {\sectionentry {3}{Pidgin}{13}{Pidgin}{0}}
-\headcommand {\beamer@sectionpages {4}{12}}
-\headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{13}{How Pdigin Integrates}}\headcommand {\beamer@subsectionpages {13}{12}}
-\headcommand {\slideentry {3}{1}{1}{13/13}{How Pdigin Integrates}{0}}
-\headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{14}{Setting up Pidgin}}\headcommand {\beamer@subsectionpages {13}{13}}
-\headcommand {\slideentry {3}{2}{1}{14/14}{Setting up Pidgin}{0}}
-\headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {3}{2}{2}{15/15}{Setting up Pidgin}{0}}
-\headcommand {\beamer@framepages {15}{15}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{16}{Verifying pdigin}}\headcommand {\beamer@subsectionpages {14}{15}}
-\headcommand {\slideentry {3}{3}{1}{16/16}{Verifying pdigin}{0}}
-\headcommand {\beamer@framepages {16}{16}}
-\headcommand {\sectionentry {4}{Summery}{17}{Summery}{0}}
-\headcommand {\beamer@sectionpages {13}{16}}
-\headcommand {\beamer@subsectionpages {16}{16}}
-\headcommand {\slideentry {4}{0}{2}{17/17}{}{0}}
-\headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@partpages {1}{17}}
-\headcommand {\beamer@subsectionpages {18}{17}}
-\headcommand {\beamer@sectionpages {18}{17}}
-\headcommand {\beamer@documentpages {17}}
+\headcommand {\beamer@partpages {1}{11}}
+\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\beamer@sectionpages {12}{11}}
+\headcommand {\beamer@documentpages {11}}
 \headcommand {\def \inserttotalframenumber {11}}

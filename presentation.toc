@@ -4,10 +4,10 @@
 \beamer@subsectionintoc {1}{2}{Checking connection}{3}{0}{1}
 \beamer@sectionintoc {2}{Tor}{4}{0}{2}
 \beamer@subsectionintoc {2}{1}{Installing Tor}{4}{0}{2}
-\beamer@subsectionintoc {2}{2}{Chat Client Address Configuration}{11}{0}{2}
-\beamer@subsectionintoc {2}{3}{Chat Client Proxy Configuration}{12}{0}{2}
-\beamer@sectionintoc {3}{Pidgin}{13}{0}{3}
-\beamer@subsectionintoc {3}{1}{How Pdigin Integrates}{13}{0}{3}
-\beamer@subsectionintoc {3}{2}{Setting up Pidgin}{14}{0}{3}
-\beamer@subsectionintoc {3}{3}{Verifying pdigin}{16}{0}{3}
-\beamer@sectionintoc {4}{Summery}{17}{0}{4}
+\beamer@subsectionintoc {2}{2}{Chat Client Address Configuration}{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{Chat Client Proxy Configuration}{6}{0}{2}
+\beamer@sectionintoc {3}{Pidgin}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{How Pdigin Integrates}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Setting up Pidgin}{8}{0}{3}
+\beamer@subsectionintoc {3}{3}{Verifying pdigin}{10}{0}{3}
+\beamer@sectionintoc {4}{Summery}{11}{0}{4}
