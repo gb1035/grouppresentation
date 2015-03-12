@@ -1,1 +1,0 @@
-Copyleft, all wrongs reserved
