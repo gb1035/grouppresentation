@@ -16,25 +16,28 @@
 \headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Installing Tor}}\headcommand {\beamer@subsectionpages {4}{3}}
 \headcommand {\slideentry {2}{1}{1}{4/9}{Installing Tor}{0}}
 \headcommand {\beamer@framepages {4}{9}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{Verifying Tor}}\headcommand {\beamer@subsectionpages {4}{9}}
-\headcommand {\slideentry {2}{2}{1}{10/10}{Verifying Tor}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{Chat Client Address Configuration}}\headcommand {\beamer@subsectionpages {4}{9}}
+\headcommand {\slideentry {2}{2}{1}{10/10}{Chat Client Address Configuration}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\sectionentry {3}{Pidgin}{11}{Pidgin}{0}}
-\headcommand {\beamer@sectionpages {4}{10}}
-\headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{Setting up Pidgin}}\headcommand {\beamer@subsectionpages {11}{10}}
-\headcommand {\slideentry {3}{1}{1}{11/11}{Setting up Pidgin}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{11}{Chat Client Proxy Configuration}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {2}{3}{1}{11/11}{Chat Client Proxy Configuration}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {3}{1}{2}{12/12}{Setting up Pidgin}{0}}
+\headcommand {\sectionentry {3}{Pidgin}{12}{Pidgin}{0}}
+\headcommand {\beamer@sectionpages {4}{11}}
+\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{12}{Setting up Pidgin}}\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\slideentry {3}{1}{1}{12/12}{Setting up Pidgin}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{13}{Verifying pdigin}}\headcommand {\beamer@subsectionpages {11}{12}}
-\headcommand {\sectionentry {4}{Chat}{13}{Chat}{0}}
-\headcommand {\beamer@sectionpages {11}{12}}
-\headcommand {\beamer@subsectionpages {13}{12}}
-\headcommand {\slideentry {4}{0}{1}{13/13}{}{0}}
+\headcommand {\slideentry {3}{1}{2}{13/13}{Setting up Pidgin}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@partpages {1}{13}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{14}{Verifying pdigin}}\headcommand {\beamer@subsectionpages {12}{13}}
+\headcommand {\sectionentry {4}{Chat}{14}{Chat}{0}}
+\headcommand {\beamer@sectionpages {12}{13}}
 \headcommand {\beamer@subsectionpages {14}{13}}
-\headcommand {\beamer@sectionpages {14}{13}}
-\headcommand {\beamer@documentpages {13}}
-\headcommand {\def \inserttotalframenumber {8}}
+\headcommand {\slideentry {4}{0}{1}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@partpages {1}{14}}
+\headcommand {\beamer@subsectionpages {15}{14}}
+\headcommand {\beamer@sectionpages {15}{14}}
+\headcommand {\beamer@documentpages {14}}
+\headcommand {\def \inserttotalframenumber {9}}
