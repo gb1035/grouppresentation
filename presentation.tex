@@ -24,14 +24,14 @@
 \section{VPN}
 \subsection{Setting up the VPN}
 \begin{frame}
-\frametitle{Install OpenVPN and Generate Static}
+\frametitle{OpenVPN using Certificates}
 \begin{itemize}
-\item OpenVPN installation command\\
-\item \# sudo apt-get install openvpn\\
-\item In the server's /etc/openvpn directory, run the following command to generate a static key:
-\item	\# openvpn --genkey --secret static.key
-
-\item Then file static.key get generated in /etc/openvpn folder. Copy this file static.key to the clients /etc/openvpn directory using a secure channel like scp or sftp.
+\item Download openvpnssl.tar.gz from shared-space\\
+\item Move this file to a safe place and \# tar -xvzf openvpnssl.tar.gz\\
+\item Meow change the path to your certificate and private key in client.conf
+\item Meow you can connect to the VPN server using either 
+\item \# sudo openvpn /path/to/client.conf 
+\item Or using \# sudo openvpnrunner if you're in the same directory as client.conf
 
 \end{itemize}
 \end{frame}
