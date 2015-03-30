@@ -28,37 +28,41 @@
 \begin{itemize}
 \item Download openvpnssl.tar.gz from shared-space\\
 \item Move this file to a safe place and \# tar -xvzf openvpnssl.tar.gz\\
-\item Meow change the path to your certificate and private key in client.conf
-\item Meow you can connect to the VPN server using either 
-\item \# sudo openvpn /path/to/client.conf 
-\item Or using \# sudo openvpnrunner if you're in the same directory as client.conf
+\item Now change the following in client.conf:
+\begin{itemize}
+\item \textbf{ca} should point to the ca\_cert.pem file
+\item \textbf{cert} should point to where your persional signed cert is (must be signed by the server first
+\item \textbf{key} should point to where the key is that you used to generate the cert
+
+\end{itemize}
 
 \end{itemize}
 \end{frame}
 \subsection{Initiating connection}
 
-\begin{frame}
-\frametitle{Server Config}
-\begin{columns}
-    \begin{column}{0.48\textwidth}
-	\begin{itemize}
-	\item On Server Run below command:\\
-	\item \# sudo openvpn {\color{red}{--proto tcp-server}} --remote \textless clientIP\textgreater  --dev tun0 --ifconfig 10.1.0.1 10.1.0.2 --verb 3 --comp-lzo yes --float --secret /etc/openvpn/static.key
-        \end{itemize}
-    \end{column}
-    \begin{column}{.5\textwidth}
-        \includegraphics[width=.9\linewidth]{am1}
-    \end{column}
-\end{columns}
-\end{frame}
+%\begin{frame}
+%\frametitle{Server Config}
+%\begin{columns}
+%    \begin{column}{0.48\textwidth}
+%	\begin{itemize}
+%	\item On Server Run below command:\\
+%	\item \# sudo openvpn {\color{red}{--proto tcp-server}} --remote \textless clientIP\textgreater  --dev tun0 --ifconfig 10.1.0.1 10.1.0.2 --verb 3 --comp-lzo yes --float --secret /etc/openvpn/static.key
+%        \end{itemize}
+%    \end{column}
+%    \begin{column}{.5\textwidth}
+%        \includegraphics[width=.9\linewidth]{am1}
+%    \end{column}
+%\end{columns}
+%\end{frame}
 
 \begin{frame}
 \frametitle{Client Config}
 \begin{columns}
     \begin{column}{0.48\textwidth}
         \begin{itemize}
-	\item On Client Run below command:\\
-	\item \# sudo openvpn {\color{red}{--proto tcp-client}} --remote \textless remoteIP\textgreater  --dev tun0 --ifconfig 10.1.0.2 10.1.0.1 --verb 3 --comp-lzo yes --secret /etc/openvpn/static.key
+	\item Meow you can connect to the VPN server using either 
+	\item \# sudo openvpn /path/to/client.conf 
+	\item Or using \# sudo openvpnrunner if you're in the same directory as client.conf
         \end{itemize}
     \end{column}
     \begin{column}{.5\textwidth}
@@ -72,7 +76,10 @@
 \frametitle{Verify Tunnel}
 \begin{columns}
     \begin{column}{0.48\textwidth}
-        \includegraphics[width=.9\linewidth]{left}
+        \begin{itemize}
+        		\item Ping the default gateway (our server) via:
+        		\item \# ping 10.8.0.1
+        \end{itemize}
     \end{column}
     \begin{column}{.5\textwidth}
         \includegraphics[width=.9\linewidth]{right}
@@ -81,7 +88,7 @@
 \end{frame}
 
 
-\section{VPN}
+\section{Tor}
 \subsection{Tor and the VPN}
 \begin{frame}
 \frametitle{Piping OpenVPN over Tor}
@@ -92,7 +99,6 @@
 \end{itemize}
 \end{frame}
 
-\section{Tor}
 \subsection{Installing Tor}
 \begin{frame}
 \frametitle{Installing The Onion Router}
