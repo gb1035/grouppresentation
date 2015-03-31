@@ -93,27 +93,10 @@
 \begin{frame}
 \frametitle{Piping OpenVPN over Tor}
 \begin{itemize}
-\item To get OpenVPN to go over Tor OpenVPN must use TCP rather than UDP
-\item Install torsocks
-\item Run tor and then do torsocks plus the OpenVPN command
-\end{itemize}
-\end{frame}
-
-\subsection{Installing Tor}
-\begin{frame}
-\frametitle{Installing The Onion Router}
-\begin{itemize}
-\item For Linux: Tor is just a simple apt-get away:\\
-\pause
-{\color{blue}{sudo apt-get install tor}}
-\pause
-\item For Mac: Homebrew or Ports should be installed first:\\
-\pause{\color{blue}{brew install tor}} Or {\color{blue}{ports install tor}}
-\pause
-\item For Windows:
-\pause
-{\color{red}{You're on your own...}}
-
+\item To get OpenVPN to go over Tor, OpenVPN must use TCP rather than UDP
+\item The VPN configuration can be done by either using torsocks or making a small change in the client.conf file.
+\item To use torsocks, run tor and then do torsocks plus the OpenVPN command
+\item To use the configuration file, the line 'socks-proxy localhost 9050 tor\_auth' needs to be in the client.conf
 \end{itemize}
 \end{frame}
 
